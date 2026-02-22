@@ -37,7 +37,7 @@ git remote remove origin
 
 ## Get the latest updates
 To pull in the latest updates from this template repo run `update-from-template.bat`. This script fetches and merges changes from the original repo.
-> This updater script was added after the initial release. If you cloned the template before it existed, [download the script](https://github.com/yeftakun/ac-lapboard/releases/download/1.0.0/update-from-template.bat ) and place it in the repository root.
+> This updater script was added after the initial release. If you cloned the template before it existed, [download the script](https://github.com/yeftakun/ac-lapboard/releases/download/1.1.0/update-from-template.bat ) and place it in the repository root.
 
 ## Update your lap data
 <details>
